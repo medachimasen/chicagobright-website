@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 112" role="img" aria-labelledby="title desc">
+  <title id="title">ChicagoBright</title>
+  <desc id="desc">The ChicagoBright wordmark with a green accent dot.</desc>
+  <text x="12" y="80" fill="#20362d" font-size="64" letter-spacing="-3.52">
+    <tspan font-family="Segoe UI Semibold, Segoe UI, sans-serif" font-weight="600">Chicago</tspan><tspan font-family="Segoe UI, sans-serif" font-weight="400">Bright</tspan>
+  </text>
+  <circle cx="395" cy="72" r="8" fill="#315e46"/>
+</svg>
