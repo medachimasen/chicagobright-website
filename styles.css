@@ -134,6 +134,10 @@ details[open] > summary::after { content: "−"; }
 .contact-buttons .button { margin: 0; }
 .contact-direct { display: grid; gap: 10px; margin-top: 8px; }
 .contact-direct a { width: fit-content; font-size: 16px; overflow-wrap: anywhere; }
+.class-updates { margin-top: 34px; padding-top: 28px; border-top: 1px solid var(--line); }
+.class-updates h2 { margin-bottom: 14px; font-size: 28px; }
+.class-updates > p { max-width: 470px; color: var(--muted); }
+.class-updates .quiet-note { margin-bottom: 0; }
 .consultation-note { padding: 30px; background: var(--wash); }
 .consultation-note .eyebrow { margin-bottom: 18px; }
 .consultation-note h2 { font-size: 32px; margin-bottom: 18px; }
